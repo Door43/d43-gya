@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[gya:home|Door43 (gya)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-gya|d43-gya repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-gya/archive/master.zip|d43-gya.zip]]
+
+**Recent Changes**
+{{changes>ns = gya}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/gya|Ethnologue data]]
+
